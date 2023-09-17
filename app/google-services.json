@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "392945527118",
+    "project_id": "chatsapp-d6b20",
+    "storage_bucket": "chatsapp-d6b20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392945527118:android:47643fd9fe595e8b15d61f",
+        "android_client_info": {
+          "package_name": "com.manish.chatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392945527118-358ofehq5cqa87p8mc51gnh1rdvat0jn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKbYqD0ouTanL0H9FVK86D5EkJ_to6NpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392945527118-358ofehq5cqa87p8mc51gnh1rdvat0jn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
